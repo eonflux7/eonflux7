@@ -1,8 +1,5 @@
 ### Hi, I'm eonflux7
 
-I work on engine ports, graphics upgrades and reverse engineering for older PC games, and on making capture
-hardware behave better.
-
 #### Featured
 
 | Project | |
