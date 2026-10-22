@@ -1,5 +1,3 @@
-### Hi, I'm eonflux7
-
 #### Featured
 
 | Project | |
