@@ -1,3 +1,8 @@
+<p align="left">
+  <a href="https://boosty.to/eonflux7/donate"><img src="https://img.shields.io/badge/Tip_on-Boosty-F15F2C?logo=boosty&logoColor=white" alt="Tip on Boosty"></a>
+  <a href="#support"><img src="https://img.shields.io/badge/Tip_in-crypto-26A17B?logo=tether&logoColor=white" alt="Tip in crypto"></a>
+</p>
+
 #### Featured
 
 | Project | |
@@ -20,3 +25,11 @@
 |---|---|
 | [eon-openbf2](https://github.com/eonflux7/eon-openbf2) | Fork of Battlefield 2–compatible source code |
 | [stalker-makefont](https://github.com/eonflux7/stalker-makefont) | Bitmap font generator for X-Ray/S.T.A.L.K.E.R. (Anomaly/GAMMA): fontbm backend, CP1251 mapping, DDS output, preview tools |
+
+#### Support
+
+| Method | |
+|---|---|
+| <img src="https://cdn.simpleicons.org/boosty" height="14" alt=""> [Boosty](https://boosty.to/eonflux7/donate) | |
+| <img src="https://cdn.simpleicons.org/tether" height="14" alt=""> USDT or TRX (TRC20, Tron network only) | `TDvocTCy6ZC2HrqGVFQSDV1LP7mZVAZHFE` |
+| <img src="https://cdn.simpleicons.org/solana" height="14" alt=""> USDC, USDT or SOL (Solana network only) | `Ebw5Z9AQPCYBBBcAAb31NXf1FDLx2sCBNGzxJDeJGP1g` |
