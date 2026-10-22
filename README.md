@@ -1,6 +1,6 @@
 <p>
   <a href="https://boosty.to/eonflux7/donate"><img src="https://img.shields.io/badge/Tip_on-Boosty-F15F2C?logo=boosty&logoColor=white" alt="Tip on Boosty"></a>
-  <a href="CRYPTO.md"><img src="https://img.shields.io/badge/Tip_in-crypto-26A17B?logo=tether&logoColor=white" alt="Tip in crypto"></a>
+  <a href="https://github.com/eonflux7/eonflux7/blob/main/CRYPTO.md"><img src="https://img.shields.io/badge/Tip_in-crypto-26A17B?logo=tether&logoColor=white" alt="Tip in crypto"></a>
 </p>
 
 #### Featured
